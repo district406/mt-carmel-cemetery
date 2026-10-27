@@ -1,5 +1,5 @@
 {
-    "snapshot_date": "October 18, 2026",
+    "snapshot_date": "October 27, 2026",
     "detail_page_url": "/mt-carmel-cemetery-info",
     "primary": {
         "971": true,
@@ -71,7 +71,6 @@
         "2339": true,
         "60": true,
         "62": true,
-        "2389": true,
         "2394": true,
         "51": true,
         "1906": true,
@@ -80,9 +79,11 @@
         "2383": true,
         "2344": true,
         "2455": true,
+        "2389": true,
         "2393": true,
         "64": true,
         "2385": true,
+        "2390": true,
         "68": true,
         "41": true,
         "2397": true,
@@ -13335,24 +13336,27 @@
         },
         "2389": {
             "name": "Jane Wright Bolton",
-            "birth_date": "January 8, 1779",
+            "birth_date": "January 8, 1774",
             "death_date": "December 18, 1837",
-            "birth_year": 1779,
+            "birth_year": 1774,
             "death_year": 1837,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
             "gravestone_no_imagery": false,
-            "findagrave_id": "66644162"
+            "findagrave_id": "66644162",
+            "familysearch_id": "LXSP-MWD"
         },
         "2390": {
             "name": "Matthew  Bolton",
-            "birth_date": "April 22, 1779",
+            "birth_date": "April 22, 1774",
             "death_date": "1840",
-            "birth_year": 1779,
+            "birth_year": 1774,
             "death_year": 1840,
-            "cemetery": "",
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false
+            "gravestone_no_imagery": false,
+            "findagrave_id": "85704478",
+            "familysearch_id": "KN74-D9S"
         },
         "2392": {
             "name": "David  Bolton",
@@ -17648,7 +17652,9 @@
             "birth_year": 1870,
             "death_year": 1899,
             "cemetery": "Camp Creek",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "77728698",
             "familysearch_id": "KCBJ-BGP"
@@ -20183,17 +20189,6 @@
             "children": [],
             "siblings": []
         },
-        "2389": {
-            "parents": [],
-            "spouses": [
-                2390
-            ],
-            "children": [
-                2392,
-                2385
-            ],
-            "siblings": []
-        },
         "2394": {
             "parents": [
                 2392,
@@ -20374,6 +20369,17 @@
                 1033
             ]
         },
+        "2389": {
+            "parents": [],
+            "spouses": [
+                2390
+            ],
+            "children": [
+                2392,
+                2385
+            ],
+            "siblings": []
+        },
         "2393": {
             "parents": [
                 2392,
@@ -20442,6 +20448,17 @@
             "siblings": [
                 2392
             ]
+        },
+        "2390": {
+            "parents": [],
+            "spouses": [
+                2389
+            ],
+            "children": [
+                2392,
+                2385
+            ],
+            "siblings": []
         },
         "68": {
             "parents": [
